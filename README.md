@@ -5,9 +5,9 @@ Using Data visualization techniques, results were presented in a written brief, 
 The following was discovered:
 
 When and where do the most storms occur in Colorado? 
-•	Most Storms occur east of the Continental Divide
-•	May-July is the most active weather in Colorado
-•	December-March is the second most active weather period
+- Most Storms occur east of the Continental Divide
+- May-July is the most active weather in Colorado
+- December-March is the second most active weather period
 
 Weather Events May to July:
 - Hail
