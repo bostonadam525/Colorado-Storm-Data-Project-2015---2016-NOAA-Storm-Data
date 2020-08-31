@@ -1,4 +1,4 @@
-# Colorado-Storm-Data-Project-2015-2016-NOAA-Storm-Data
+# Colorado-Storm-Data-Project-2015-2016-NOAA-Storm-Data by Adam M. Lang
 Data Visualization Exploratory project for the state of Colorado based upon the NOAA 2015-2016 storm data set
 
 Using Data visualization techniques, results were presented in a written brief, pamphlet, PowerPoint, and Tableau Dashboard.
